@@ -1,2 +1,2 @@
 # NationMobile
-An Application Mobile
+A mobile application
